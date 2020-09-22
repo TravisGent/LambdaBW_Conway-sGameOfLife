@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaBW_Conway'sGameOfLife", "LambdaBW_Conway'sGameOfLife\LambdaBW_Conway'sGameOfLife.csproj", "{09D26124-446D-4514-BD5B-1E6667D67862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D26124-446D-4514-BD5B-1E6667D67862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D26124-446D-4514-BD5B-1E6667D67862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D26124-446D-4514-BD5B-1E6667D67862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D26124-446D-4514-BD5B-1E6667D67862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF6A83F-7037-4E38-8799-504753F150F1}
+	EndGlobalSection
+EndGlobal
